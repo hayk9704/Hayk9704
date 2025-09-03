@@ -1,4 +1,4 @@
-**MSc Economics @ AUEB** • **Bayesian MCMC & Stochastic Volatility** • **Open to Data/DS Internships in Athens**
+**MSc Economics @ AUEB** • **Open to Data Science/Data Analyst Internships in Athens**
 
 Hi! I’m Hayk, a Master’s student in Economics at the Athens University of Economics and Business (AUEB).  
 I’m currently writing my dissertation on **comparing MCMC methods for a stochastic volatility model** (Python), focusing on runtime, stability, and inference quality. I enjoy applied econometrics, time series, and building clean, reproducible data workflows.
