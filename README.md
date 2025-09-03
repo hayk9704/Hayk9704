@@ -13,9 +13,9 @@ I enjoy probability and stats, machine learning and applied econometrics. I’m 
   Comparing multiple MCMC approaches for stochastic volatility (ESS/s, acceptance, diagnostics).  
   _Repo_: <https://github.com/hayk9704/MCMC-StochVol> (WIP)
 
-- **Mastering Data Wrangling (Python, SQL).**  
-  End-to-end data cleaning, feature engineering, tidy transforms, and reproducible pipelines.  
-  _Repo_: <https://github.com/hayk9704/<data-wrangling-repo>>
+- **Mastering Data Wrangling and EDA (Python, SQL).**  
+  become fluent in data-wrangling and exploratory data analysis (EDA) through small projects.
+  _Repo_: <https://github.com/hayk9704/Data-wrangling>
 
 ---
 
