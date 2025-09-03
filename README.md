@@ -11,7 +11,7 @@ I enjoy probability and stats, machine learning and applied econometrics. I’m 
 ## What I’m working on
 - **SV + Bayesian MCMC (Dissertation, Python).**  
   Comparing multiple MCMC approaches for stochastic volatility (ESS/s, acceptance, diagnostics).  
-  _Repo_: <https://github.com/hayk9704/MCMC-StochVol> (WIP)
+  _Repo_: <https://github.com/hayk9704/MCMC-StochVol> 
 
 - **Mastering Data Wrangling and EDA (Python, SQL).**  
   become fluent in data-wrangling and exploratory data analysis (EDA) through small projects.
