@@ -28,7 +28,7 @@ I enjoy probability and stats, machine learning and applied econometrics. I’m 
 ---
 
 ## Contact & Links
-- 💼 **LinkedIn:** <https://www.linkedin.com/in/hayk-gevorgyan-2040b5375>  
+- 💼 **LinkedIn:** <https://linkedin.com/in/hayk-gevorgyan-y975>  
 - 🧑‍💻 **GitHub:** <https://github.com/hayk9704>  
 - 📄 **CV:** [Hayk_Gevorgyan_CV](https://github.com/hayk9704/Hayk9704/blob/83831daa58004a1cb42a16699d7c00760ab6c8f2/CV_Hayk_Gevorgyan.pdf)
 
