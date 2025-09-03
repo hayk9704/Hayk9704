@@ -3,8 +3,8 @@
 Hi! I’m Hayk, a Master’s student in Economics at the Athens University of Economics and Business (AUEB).  
 I enjoy probability and stats, machine learning and applied econometrics. I’m currently writing my dissertation on **comparing MCMC methods for a stochastic volatility model**, focusing on runtime, stability, and inference quality. 
 
-- 📍 Based in **Athens, Greece**; open to **part-time / internship** data related roles (data analysis, data science, machine learning engineering).
-- 🧠 Strong foundations in **probability**, **econometrics**, and **Bayesian methods**; hands-on **Python / SQL / R**.
+- Based in **Athens, Greece**; open to **part-time / internship** data related roles (data analysis, data science, machine learning engineering).
+- Strong foundations in **probability**, **econometrics**, and **Bayesian methods**; hands-on **Python / SQL / R**.
 
 ---
 
