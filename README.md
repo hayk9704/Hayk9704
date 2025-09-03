@@ -30,7 +30,7 @@ I’m currently writing my dissertation on **comparing MCMC methods for a stocha
 ## Contact & Links
 - 💼 **LinkedIn:** <https://www.linkedin.com/in/hayk-gevorgyan-2040b5375>  
 - 🧑‍💻 **GitHub:** <https://github.com/hayk9704>  
-- 📄 **CV:** <https://github.com/hayk9704/CV_Hayk_Gevorgyan.pdf>  
+- 📄 **CV:** [Hayk_Gevorgyan_CV](<[https://github.com/hayk9704/CV_Hayk_Gevorgyan.pdf](https://github.com/hayk9704/hayk9704/blob/main/CV_Hayk_Gevorgyan.pdf)>)
 
 ---
 
