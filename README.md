@@ -9,11 +9,11 @@ I enjoy probability and stats, machine learning and applied econometrics. I’m 
 ---
 
 ## What I’m working on
-- **SV + Bayesian MCMC (Dissertation, Python).**  
+- **SV + Bayesian MCMC (Dissertation, Python).**  <br>
   Comparing multiple MCMC approaches for stochastic volatility (ESS/s, acceptance, diagnostics).<br>
   _Repo_: <https://github.com/hayk9704/MCMC-StochVol> 
 
-- **Exploratory Data Analysis: Netflix Content (Python, SQL).**
+- **Exploratory Data Analysis: Netflix Content (Python, SQL).** <br>
   An end-to-end analysis of the Netflix Movies & TV Shows dataset, focusing on data cleaning, transformation, and uncovering content trends through EDA.<br>
   _Repo_: <https://github.com/hayk9704/Netflix_data_EDA.git> 
 
