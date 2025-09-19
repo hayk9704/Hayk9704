@@ -15,7 +15,7 @@ I enjoy probability and stats, machine learning and applied econometrics. I’m 
 
 - **Exploratory Data Analysis: Netflix Content (Python, SQL).** <br>
   An end-to-end analysis of the Netflix Movies & TV Shows dataset, focusing on data cleaning, transformation, and uncovering content trends through EDA.<br>
-  _Repo_: <https://github.com/hayk9704/Netflix_data_EDA.git> 
+  _Repo_: <https://github.com/hayk9704/Netflix_data_EDA> 
 
 
 ---
